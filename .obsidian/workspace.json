@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lieux/Sans titre.md",
+                "file": "Manuscrit/Chapitre 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sans titre"
+              "title": "Chapitre 3"
             }
           }
         ],
@@ -294,14 +294,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "07f4bcf55dcb55bb",
+  "active": "a77d5af0005a0400",
   "lastOpenFiles": [
-    "Lieux/Planque appartement de Maika.md",
-    "Lieux/Sans titre.md",
+    "Lieux/Bar d'enfance.md",
     "Lieux/Musée.md",
+    "Manuscrit/Chapitre 1.md",
+    "Lieux/Planque appartement de Maika.md",
     "Manuscrit/Chapitre 3.md",
     "Manuscrit/Chapitre 2.md",
-    "Manuscrit/Chapitre 1.md",
     "Manuscrit/1 Prologue.md",
     "Manuscrit/Chapitre 4.md",
     "Personnages/Clientagoniste.md",
