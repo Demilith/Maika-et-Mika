@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manuscrit/Chapitre 2.md",
+                "file": "Manuscrit/Chapitre 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 2"
+              "title": "Chapitre 1"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manuscrit/Chapitre 2.md",
+                "file": "Manuscrit/Chapitre 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Chapitre 2"
+              "title": "Rétrolien pour Chapitre 1"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manuscrit/Chapitre 2.md",
+                "file": "Manuscrit/Chapitre 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Chapitre 2"
+              "title": "Liens sortants de Chapitre 1"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manuscrit/Chapitre 2.md",
+                "file": "Manuscrit/Chapitre 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Chapitre 2"
+              "title": "Plan de Chapitre 1"
             }
           },
           {
@@ -213,8 +213,8 @@
   "active": "4e54964be48ea951",
   "lastOpenFiles": [
     "Manuscrit/Chapitre 3.md",
-    "Manuscrit/Chapitre 1.md",
     "Manuscrit/Chapitre 2.md",
+    "Manuscrit/Chapitre 1.md",
     "Manuscrit/Chapitre 4.md",
     "test.md",
     "Personnages/Soeur et Amis d'enfance de Mika.md",
