@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manuscrit/Chapitre 3.md",
+                "file": "Manuscrit/Chapitre 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapitre 3"
+              "title": "Chapitre 2"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manuscrit/Chapitre 3.md",
+                "file": "Manuscrit/Chapitre 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Chapitre 3"
+              "title": "Rétrolien pour Chapitre 2"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manuscrit/Chapitre 3.md",
+                "file": "Manuscrit/Chapitre 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Chapitre 3"
+              "title": "Liens sortants de Chapitre 2"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manuscrit/Chapitre 3.md",
+                "file": "Manuscrit/Chapitre 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Chapitre 3"
+              "title": "Plan de Chapitre 2"
             }
           },
           {
@@ -212,6 +212,10 @@
   },
   "active": "4e54964be48ea951",
   "lastOpenFiles": [
+    "Manuscrit/Chapitre 3.md",
+    "Manuscrit/Chapitre 1.md",
+    "Manuscrit/Chapitre 2.md",
+    "Manuscrit/Chapitre 4.md",
     "test.md",
     "Personnages/Soeur et Amis d'enfance de Mika.md",
     "Personnages/Mika.md",
@@ -220,10 +224,6 @@
     "Personnages/Clientagoniste.md",
     "Personnages/Angel.md",
     "Personnages",
-    "Manuscrit/Chapitre 4.md",
-    "Manuscrit/Chapitre 3.md",
-    "Manuscrit/Chapitre 2.md",
-    "Manuscrit/Chapitre 1.md",
     "Manuscrit/1 Prologue.md",
     "Manuscrit",
     "Lieux/Planque appartement de Maika.md",
