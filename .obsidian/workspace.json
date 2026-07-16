@@ -251,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md",
+                "file": "Manuscrit/manuscript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de test"
+              "title": "Plan de manuscript"
             }
           },
           {
