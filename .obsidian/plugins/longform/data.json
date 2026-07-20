@@ -6,6 +6,25 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-07-20T07:08:12.591Z",
+      "total": 0,
+      "drafts": {
+        "Manuscrit/Mika_Maika/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Manuscrit/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Chapitre 1": 0,
+            "Chapitre 2": 0,
+            "Chapitre 3": 0,
+            "Chapitre 4": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-07-16T13:51:09.020Z",
       "total": 11004,
       "drafts": {
